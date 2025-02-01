@@ -1,0 +1,10 @@
+C:\Users\natha\OneDrive\Área de Trabalho\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+C:\Users\natha\OneDrive\Área de Trabalho\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+C:\Users\natha\OneDrive\Área de Trabalho\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Área de Trabalho\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Form1.resources
+C:\Users\natha\OneDrive\Área de Trabalho\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+C:\Users\natha\OneDrive\Área de Trabalho\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\Área de Trabalho\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+C:\Users\natha\OneDrive\Área de Trabalho\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
